@@ -6,7 +6,7 @@ The other fun thing about this repository is that much of the code for it was ge
 
 ## Demo
 
-![Demo video](https://www.dropbox.com/s/xzsx22lse6w3j5w/bedtime_story_companion_demo.mp4?dl=0)
+https://user-images.githubusercontent.com/852932/226206401-bd468c78-1855-442e-8942-92787fe15fed.mp4
 
 ## How to use
 
